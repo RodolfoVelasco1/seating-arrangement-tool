@@ -1,6 +1,4 @@
-# 🪑 Seating Arrangement / Asignador de Asientos
-
-*[Español abajo ⬇️]*
+# 🪑 Seating Arrangement
 
 An interactive and visual desktop application to easily design classroom layouts, organize desks, and assign seats to students. 
 
@@ -33,6 +31,7 @@ Una aplicación de escritorio interactiva y visual para diseñar fácilmente la 
 
 ## ☕ Donate / Donaciones
 If you found this tool useful, consider buying me a coffee! 
+
 Si esta herramienta te resultó útil, ¡considera invitarme un café!
 
 * 🇦🇷 **[Cafecito (ARS)](https://cafecito.app/rodolfovelasco)**
